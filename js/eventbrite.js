@@ -1,7 +1,7 @@
 
 class EventBrite {
   constructor() {
-    this.token_auth = 'OUNK2YE7K45KK3LN7LZD';
+    this.token_auth = '';
     this.ordenar = 'date';
   }
 
